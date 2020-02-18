@@ -1,0 +1,7 @@
+Control de clientes de una entidad bancaria: Se implementa una lista doblemente enlazada y 
+a partir de un método hashing se logran hacer consultas más eficientes.
+
+EQUIPO +1:
+María Fernanda
+José Moises Luna Montes
+David Betancourt Montellano
